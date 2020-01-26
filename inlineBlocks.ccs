@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8" />
+		<title>Afficher du code informatique </title>
+	</head>
+	<body>
+		Un extrait de code html
+		<pre>
+			&lt;a href="http://www.uqam.ca"&gt;UQAM&lt;/a&gt;
+		</pre>
+		Un extrait de code java
+		<pre>
+			int MAX=10;
+			for(int i=0;i< MAX;i++){
+				System.out.println("i= " + i);
+			}
+		</pre>
+	</body>
+</html>
+
+
