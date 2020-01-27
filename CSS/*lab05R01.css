@@ -50,7 +50,31 @@
 
 .liens>ul a:hover {
 
-	text-decoration: none;
-	color: blue;
+	text-decoration: uderline;
+	color: #ffccff;
 	
+}
+
+.liens>hr {
+
+width: 30%;
+border-style: ridge;
+height: 2px;
+background-color: #ffccff;
+
+
+}
+.contenu {
+	display: table-cell;
+	width: 100%;
+	vertical-align: top;
+	padding-left: 10px;
+}
+
+h1,h2,h3,h4{
+	text-align: center;
+
+}
+.page {
+	display: table-row;
 }
